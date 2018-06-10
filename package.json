@@ -4,6 +4,7 @@
   "description": "Tdd exercise",
   "main": "index.js",
   "scripts": {
+	"test1": "istanbul cover tape ./test/*.test.js", 
     "test": "tape ./test/*.test.js"
   },
   "repository": {

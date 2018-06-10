@@ -1,3 +1,8 @@
+﻿#### Excercise submission
+- Name (or initials):Idan David
+- github username: idandvd
+- Estimation of hours I worked on it: 2
+
 # Learn Tape
 [![Build Status](https://travis-ci.org/dwyl/learn-tape.png?branch=master)](https://travis-ci.org/dwyl/learn-tape)
 [![codecov](https://codecov.io/gh/dwyl/learn-tape/branch/master/graph/badge.svg)](https://codecov.io/gh/dwyl/learn-tape/branch/master)
