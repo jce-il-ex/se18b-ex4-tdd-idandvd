@@ -2,7 +2,7 @@ const test = require('tape'); // assign the tape library to the variable "test"
 
 function sum (a, b) {
   // your code to make the test pass goes here ...
-  return a + b+a;
+  return a + b;
 }
 function mult(a, b) {
   // your code to make the test pass goes here ...
